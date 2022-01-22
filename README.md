@@ -1,5 +1,5 @@
 # css-inline
-This repository provides a docker 
+This projects tells how to apply CSS in the html file itself
 
 # How to build ?
 1. Check out repo
